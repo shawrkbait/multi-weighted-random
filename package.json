@@ -1,0 +1,11 @@
+{
+  "name": "multi-weighted-random",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.4.1"
+  }
+}
