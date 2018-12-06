@@ -7,5 +7,6 @@
   "devDependencies": {
     "chai": "^3.4.1",
     "mocha": "^2.4.1"
-  }
+  },
+  "main": "lib/random_select.js"
 }
