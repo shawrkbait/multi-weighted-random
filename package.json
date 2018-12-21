@@ -1,12 +1,32 @@
 {
   "name": "multi-weighted-random",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "description": "Randomly select multiple entries from a weighted list.",
+  "main": "lib/random_select.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "mocha": "^2.4.1"
+    "mocha": "^5.2.0"
   },
-  "main": "lib/random_select.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawrkbait/multi-weighted-random.git"
+  },
+  "keywords": [
+    "random",
+    "weighted",
+    "list"
+  ],
+  "author": "Shawn Johnson <sjohnson@axiomega.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawrkbait/multi-weighted-random/issues"
+  },
+  "homepage": "https://github.com/shawrkbait/multi-weighted-random#readme"
 }
