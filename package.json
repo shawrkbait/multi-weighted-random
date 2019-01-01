@@ -1,6 +1,6 @@
 {
   "name": "multi-weighted-random",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Randomly select multiple entries from a weighted list.",
   "main": "lib/random_select.js",
   "directories": {
